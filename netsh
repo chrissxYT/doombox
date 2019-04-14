@@ -1,0 +1,5 @@
+#!/bin/sh
+git clone https://github.com/chrissxyt/doombox doombox
+cd doombox
+bash doombox.bash
+cd ..
